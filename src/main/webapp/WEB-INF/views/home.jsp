@@ -11,6 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <h1>Changkyu</h1>
-<h1>ppp</h1>
+
 </body>
 </html>
